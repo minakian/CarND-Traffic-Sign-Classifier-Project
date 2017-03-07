@@ -20,8 +20,8 @@ The goals / steps of this project are the following:
 [//]: # (Image References)
 
 [image1]: ./images_for_writeup/bar_chart_of_sign_count.png "Visualization"
-[image2]: ./images_for_writeup/image1.png "As Loaded"
-[image3]: ./images_for_writeup/image1_normal.png "Normalized"
+[image2]: ./images_for_writeup/sign1.png "As Loaded"
+[image3]: ./images_for_writeup/sign1_normal.png "Normalized"
 [image4]: ./new_images/1.png "Traffic Sign 1"
 [image5]: ./new_images/2.png "Traffic Sign 2"
 [image6]: ./new_images/3.png "Traffic Sign 3"
